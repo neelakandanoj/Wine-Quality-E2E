@@ -8,3 +8,9 @@
     step 3) pip install -r requirements.txt
 ```   
 
+```
+##Git 
+git add .
+git commit "commit msg"
+git push -u origin main
+```
