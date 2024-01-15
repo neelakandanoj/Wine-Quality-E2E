@@ -20,4 +20,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("WneQltLogger")
+logger = logging.getLogger("WineQltLogger")
